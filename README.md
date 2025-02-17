@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+# Halo semua! 
+
+😄 Perkenalkan nama saya **Subhan**.<br>
+
+🌱 Saya seorang **Pembelajar** di [Dicoding](https://www.dicoding.com/).<br>
+
+🔭 Di keseharian, saya beraktivitas sebagai pengajar di program studi Informatika salah satu kampus swasta di Jogja<br>
+
+💬 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/ahmad-subhan-yazid/)ku ya.
+
 <!--
 **subhanyazid/subhanyazid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
